@@ -4,7 +4,7 @@ skrbot
 ## Bot 連線方式
 QR code
 
-![skrbot](https://qr-official.line.me/M/nEGH8jbDC9.png)
+
 
 QR code url: https://line.me/R/ti/p/nEGH8jbDC9
 
